@@ -1,8 +1,8 @@
 {
-  "name": "Mining_Drones",
-  "version": "1.1.10",
+  "name": "Mining_Drones_Less_OP",
+  "version": "1.0",
   "title": "Mining Drones",
-  "author": "Klonan",
+  "author": "Klonan (slightly modified by matthinc)",
   "contact": "",
   "homepage": "",
   "description": "Adds mining drones and mining depots",
